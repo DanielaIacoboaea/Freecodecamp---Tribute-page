@@ -1,9 +1,9 @@
 
 # Tribute-page - FreeCodeCamp project
 
-### As part of my learning, I tried to get inspiration from other websites and<br> created replicas of their elements.
+### As part of my learning, I tried to get inspiration from other websites and<br> create replicas of their elements.
 
-#### This is a tribute page, with elements replicated from ***Boston Dynamics***.
+#### As part of FreeCodeCamp's Responsive Web Design course, I build a tribute page, with elements replicated from ***Boston Dynamics***.
 
 ***
 
@@ -16,17 +16,12 @@
 * Selectors specificity
 * Media queries and setting up breaking points 
 
-#### Things I learned more about, after unexpected behaviours from the page: 
+#### After unexpected behaviours from the page, I gained more knowledge in: 
 
-* Cumulative Layout Shift 
 * Bootstrap icons 
 * Difference in browsers default settings and how to normalize them
 
-
 ***
-
-- [x] I believe this approach helped me a lot to expand my understanding of what I can do with the languages, than what<br>I could have imagined just on my own with a basic understanding of the elements.
-
 ***
 
 #### Check out the result:
